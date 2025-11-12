@@ -128,12 +128,7 @@
                     </a>
                 </th>
             </tr>
-            </th>
-        </table>
-    </tr>
-    <tr>
-        <table>
-            <tr>
+             <tr>
                 <th>
                     <h4>DevOps</h4>
                 </th>
@@ -195,6 +190,7 @@
                     </a>
                 </th>
             </tr>
+            </th>
         </table>
     </tr>
 </table>
