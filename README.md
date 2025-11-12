@@ -15,6 +15,7 @@
         </th>
     </tr>
     <tr>
+        <th>
         <table>
             <tr>
                 <th>
@@ -192,5 +193,6 @@
             </tr>
             </th>
         </table>
+        </th>
     </tr>
 </table>
