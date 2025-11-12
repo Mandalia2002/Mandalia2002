@@ -3,6 +3,6 @@
     <p align="center"><img src="/metrics.plugin.topics.icons.svg" alt="achivements" width="400"></p>
   </tr>
   <tr>
-    l
+    <p align="center"><img src="/github-metrics.svg" alt="achivements" width="400"></p>
   </tr>
 </table>
