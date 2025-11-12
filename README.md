@@ -8,6 +8,6 @@
   </th>
   </tr>
   <tr>
-    
+    <p align="center"><img src="/metrics.plugin.music.playlist.spotify.svg" alt="achivements" width="400"></p>
   </tr>
 </table>
