@@ -1,6 +1,6 @@
 <table>
     <tr>
-        <th>
+        <th align="left">
             <h3>Welcome, Im Mandalia</h3>
             <h4>Full-Stack Web Developer since March 2025</h4>
             <h4>Software Engineer since December 2024</h4>
@@ -13,11 +13,8 @@
             <p align="center"><img src="/metrics.plugin.topics.icons.svg" alt="achivements" width="400"></p>
             <p align="center"><img src="/metrics.plugin.music.playlist.spotify.svg" alt="achivements" width="400"></p>
         </th>
-        <th>
-        </th>
     </tr>
-    <tr>
-        <th>
+    <tr aria-colspan="2">
         <table>
             <tr>
                 <th>
@@ -195,6 +192,5 @@
             </tr>
             </th>
         </table>
-        </th>
     </tr>
 </table>
