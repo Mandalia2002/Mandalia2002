@@ -8,7 +8,11 @@
     <h4>Back-End Developer since September 2022</h4>
     <h4>Programmer since August 2017</h4>
     <h4>Tech-lover since August 2002</h4>
-
+        <p align="center"><img src="/github-metrics.svg" alt="achivements" width="400"></p>
+    <p align="center"><img src="/metrics.plugin.topics.icons.svg" alt="achivements" width="400"></p>
+    <p align="center"><img src="/metrics.plugin.music.playlist.spotify.svg" alt="achivements" width="400"></p>
+  </th>
+  <th>
 <h3 align="left">Languages</h3>
   <a href="https://golang.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
@@ -89,16 +93,11 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <p align="left"> 
-
-  </th>
-  <th>
-    <p align="center"><img src="/github-metrics.svg" alt="achivements" width="400"></p>
-    <p align="center"><img src="/metrics.plugin.topics.icons.svg" alt="achivements" width="400"></p>
   </th>
   </tr>
   <tr>
     <th>
-    <p align="center"><img src="/metrics.plugin.music.playlist.spotify.svg" alt="achivements" width="400"></p>
+
     </th>
   </tr>
 </table>
