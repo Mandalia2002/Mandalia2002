@@ -1,7 +1,7 @@
 <table>
     <tr>
         <th align="left">
-            <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+            <img src="https://capsule-render.vercel.app/api?type=waving&color=#140A21&height=50&width=10&section=header" />
             <h3>Welcome, Im Mandalia 🌙✨</h3>
             <h4>Full-Stack Web Developer since March 2025</h4>
             <h4>Software Engineer since December 2024</h4>
@@ -9,9 +9,9 @@
             <h4>Back-End Developer since September 2022</h4>
             <h4>Programmer since August 2017</h4>
             <h4>Tech-lover since August 2002</h4>
-            <br>
-            <p align="center"><img src="/github-metrics.svg" alt="achivements" width="400"></p>
-            <p align="center"><img src="/metrics.plugin.topics.icons.svg" alt="achivements" width="400"></p>
+            <p><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a163d7b1-75de-4f8a-bf23-911e53d68965/dcdeb1o-57915cde-5dfc-4cf6-99ca-067d9a99eb83.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9hMTYzZDdiMS03NWRlLTRmOGEtYmYyMy05MTFlNTNkNjg5NjUvZGNkZWIxby01NzkxNWNkZS01ZGZjLTRjZjYtOTljYS0wNjdkOWE5OWViODMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.U_FosV36ycBIO1bjHYJFB3quTiGW9wlro5WoGGyA_Rk"></p>
+            <p><img src="/github-metrics.svg" alt="achivements" width="400"></p>
+            <p><img src="/metrics.plugin.topics.icons.svg" alt="achivements" width="400"></p>
         </th>
         <th>
             <p align="center"><img src="/metrics.plugin.music.playlist.spotify.svg" alt="achivements" width="400"></p>
