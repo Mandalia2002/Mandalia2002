@@ -1,7 +1,7 @@
 <table>
     <tr>
-        <th align="left">
-            <img src="https://capsule-render.vercel.app/api?type=waving&color=#140A21&height=50&width=10&section=header" />
+        <th align="center">
+            <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=#140A21&section=header"/>
             <h3>Welcome, Im Mandalia 🌙✨</h3>
             <h4>Full-Stack Web Developer since March 2025</h4>
             <h4>Software Engineer since December 2024</h4>
@@ -9,11 +9,14 @@
             <h4>Back-End Developer since September 2022</h4>
             <h4>Programmer since August 2017</h4>
             <h4>Tech-lover since August 2002</h4>
-            <p><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a163d7b1-75de-4f8a-bf23-911e53d68965/dcdeb1o-57915cde-5dfc-4cf6-99ca-067d9a99eb83.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9hMTYzZDdiMS03NWRlLTRmOGEtYmYyMy05MTFlNTNkNjg5NjUvZGNkZWIxby01NzkxNWNkZS01ZGZjLTRjZjYtOTljYS0wNjdkOWE5OWViODMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.U_FosV36ycBIO1bjHYJFB3quTiGW9wlro5WoGGyA_Rk"></p>
+            <p><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c505d29b-adb3-432b-8f72-bbe80d295bfc/d29rv47-82a38269-5fe0-4376-a129-a0a860ab04a3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNTA1ZDI5Yi1hZGIzLTQzMmItOGY3Mi1iYmU4MGQyOTViZmMvZDI5cnY0Ny04MmEzODI2OS01ZmUwLTQzNzYtYTEyOS1hMGE4NjBhYjA0YTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.652tbLPMLe8RHLNyGSiMcKkf7sbJ-b68DvJgdoRpKvo"></p>
             <p><img src="/github-metrics.svg" alt="achivements" width="400"></p>
             <p><img src="/metrics.plugin.topics.icons.svg" alt="achivements" width="400"></p>
         </th>
         <th>
+            <p><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/30002611-140c-433b-b288-1a7271de6ded/dbdr8qv-88ddde12-a6dc-4ba1-a762-b52064c0b396.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8zMDAwMjYxMS0xNDBjLTQzM2ItYjI4OC0xYTcyNzFkZTZkZWQvZGJkcjhxdi04OGRkZGUxMi1hNmRjLTRiYTEtYTc2Mi1iNTIwNjRjMGIzOTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Nchl3ghHuqwmO5k2XwX4BL8Jk6YONVKLg1p4W7r9uPI"></p>
+            <p><img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/dcar0ad-49bc59a6-3143-4093-af7a-3164ce60ca27.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jZjI4MzZjYi01ODkzLTRhNmMtYjE1Ni01YTg5ZDk0ZmM3MjEvZGNhcjBhZC00OWJjNTlhNi0zMTQzLTQwOTMtYWY3YS0zMTY0Y2U2MGNhMjcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lLjyjO4iWunZMVVFc-ef4VIAyiTeQ7YmZD6EDGe6vG4"></p>
+            <p><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/30002611-140c-433b-b288-1a7271de6ded/dbdr8wy-6f6ddda1-49ee-47d3-921c-0ad412047e02.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8zMDAwMjYxMS0xNDBjLTQzM2ItYjI4OC0xYTcyNzFkZTZkZWQvZGJkcjh3eS02ZjZkZGRhMS00OWVlLTQ3ZDMtOTIxYy0wYWQ0MTIwNDdlMDIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.H5a-AWP7amEUCpyi4crWaERF4ALPhDGYytNM-yG5_UU"></p>
             <p align="center"><img src="/metrics.plugin.music.playlist.spotify.svg" alt="achivements" width="400"></p>
         </th>
     </tr>
