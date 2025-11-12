@@ -1,1 +1,8 @@
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+<table>
+  <tr>
+    <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+  </tr>
+  <tr>
+    
+  </tr>
+</table>
