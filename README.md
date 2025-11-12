@@ -13,6 +13,8 @@
             <p align="center"><img src="/metrics.plugin.topics.icons.svg" alt="achivements" width="400"></p>
             <p align="center"><img src="/metrics.plugin.music.playlist.spotify.svg" alt="achivements" width="400"></p>
         </th>
+        <th>
+        </th>
     </tr>
     <tr aria-colspan="2">
         <table>
