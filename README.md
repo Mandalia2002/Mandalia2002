@@ -11,12 +11,12 @@
             <br>
             <p align="center"><img src="/github-metrics.svg" alt="achivements" width="400"></p>
             <p align="center"><img src="/metrics.plugin.topics.icons.svg" alt="achivements" width="400"></p>
-            <p align="center"><img src="/metrics.plugin.music.playlist.spotify.svg" alt="achivements" width="400"></p>
         </th>
         <th>
+            <p align="center"><img src="/metrics.plugin.music.playlist.spotify.svg" alt="achivements" width="400"></p>
         </th>
     </tr>
-    <tr aria-colspan="2">
+    <tr>
         <table>
             <tr>
                 <th>
@@ -36,27 +36,6 @@
                 </th>
                 <th>
                     <h4>Data Visualization</h4>
-                </th>
-                <th>
-                    <h4>DevOps</h4>
-                </th>
-                <th>
-                    <h4>BackEnd Service</h4>
-                </th>
-                <th>
-                    <h4>Framework</h4>
-                </th>
-                <th>
-                    <h4>Testing</h4>
-                </th>
-                <th>
-                    <h4>Software</h4>
-                </th>
-                <th>
-                    <h4>Static Site</h4>
-                </th>
-                <th>
-                    <h4>Other</h4>
                 </th>
             </tr>
             <tr>
@@ -148,7 +127,34 @@
                         <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30" />
                     </a>
                 </th>
+            </tr>
+            </th>
+        </table>
+    </tr>
+    <tr>
+        <table>
+            <tr>
                 <th>
+                    <h4>DevOps</h4>
+                </th>
+                <th>
+                    <h4>BackEnd Service</h4>
+                </th>
+                <th>
+                    <h4>Framework</h4>
+                </th>
+                <th>
+                    <h4>Testing</h4>
+                </th>
+                <th>
+                    <h4>Software</h4>
+                </th>
+                <th>
+                    <h4>Static Site</h4>
+                </th>
+            </tr>
+            <tr>
+                   <th>
                     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
                             alt="aws" width="30" height="30" /> </a>
@@ -177,6 +183,10 @@
                     <a href="https://postman.com" target="_blank" rel="noreferrer">
                         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
                             width="30" height="30" /> </a>
+                    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+                        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30"
+                            height="30" />
+                    </a>
                 </th>
                 <th>
                     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
@@ -184,15 +194,7 @@
                             height="30" />
                     </a>
                 </th>
-                <th>
-                    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30"
-                            height="30" />
-                    </a>
-                </th>
-                <p>
             </tr>
-            </th>
         </table>
     </tr>
 </table>
