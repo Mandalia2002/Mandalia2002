@@ -1,7 +1,6 @@
 <table>
     <tr>
         <th align="center">
-            <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=#140A21&section=header"/>
             <h3>Welcome, Im Mandalia 🌙✨</h3>
             <h4>Full-Stack Web Developer since March 2025</h4>
             <h4>Software Engineer since December 2024</h4>
