@@ -10,9 +10,10 @@
             <h4>Tech-lover since August 2002</h4>
             <p><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c505d29b-adb3-432b-8f72-bbe80d295bfc/d29rv47-82a38269-5fe0-4376-a129-a0a860ab04a3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNTA1ZDI5Yi1hZGIzLTQzMmItOGY3Mi1iYmU4MGQyOTViZmMvZDI5cnY0Ny04MmEzODI2OS01ZmUwLTQzNzYtYTEyOS1hMGE4NjBhYjA0YTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.652tbLPMLe8RHLNyGSiMcKkf7sbJ-b68DvJgdoRpKvo"></p>
             <p><img src="/github-metrics.svg" alt="achivements" width="400"></p>
-            <p><img src="/metrics.plugin.topics.icons.svg" alt="achivements" width="400"></p>
         </th>
         <th align="center">
+            <p><img src="/metrics.plugin.topics.icons.svg" alt="achivements" width="500"></p>
+                        <p><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c505d29b-adb3-432b-8f72-bbe80d295bfc/d29rv47-82a38269-5fe0-4376-a129-a0a860ab04a3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNTA1ZDI5Yi1hZGIzLTQzMmItOGY3Mi1iYmU4MGQyOTViZmMvZDI5cnY0Ny04MmEzODI2OS01ZmUwLTQzNzYtYTEyOS1hMGE4NjBhYjA0YTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.652tbLPMLe8RHLNyGSiMcKkf7sbJ-b68DvJgdoRpKvo"></p>
             <p align="center"><img src="/metrics.plugin.music.playlist.spotify.svg" alt="achivements" width="550" height="550"></p>
         </th>
     </tr>
