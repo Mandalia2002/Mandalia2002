@@ -13,8 +13,7 @@
             <p><img src="/metrics.plugin.topics.icons.svg" alt="achivements" width="400"></p>
         </th>
         <th align="center">
-            <p><img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/dcar0ad-49bc59a6-3143-4093-af7a-3164ce60ca27.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jZjI4MzZjYi01ODkzLTRhNmMtYjE1Ni01YTg5ZDk0ZmM3MjEvZGNhcjBhZC00OWJjNTlhNi0zMTQzLTQwOTMtYWY3YS0zMTY0Y2U2MGNhMjcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lLjyjO4iWunZMVVFc-ef4VIAyiTeQ7YmZD6EDGe6vG4"></p>
-            <p align="center"><img src="/metrics.plugin.music.playlist.spotify.svg" alt="achivements" width="800" height="800"></p>
+            <p align="center"><img src="/metrics.plugin.music.playlist.spotify.svg" alt="achivements" width="750" height="750"></p>
         </th>
     </tr>
     <tr>
