@@ -13,7 +13,7 @@
             <p><img src="/metrics.plugin.topics.icons.svg" alt="achivements" width="400"></p>
         </th>
         <th align="center">
-            <p align="center"><img src="/metrics.plugin.music.playlist.spotify.svg" alt="achivements" width="750" height="750"></p>
+            <p align="center"><img src="/metrics.plugin.music.playlist.spotify.svg" alt="achivements" width="650" height="650"></p>
         </th>
     </tr>
     <tr>
